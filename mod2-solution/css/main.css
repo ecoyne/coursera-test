@@ -18,7 +18,7 @@ section {
 }
 h2 {
   float: right;
-  border:1px solid black;
+  border: 1px solid black;
   font-family: arial;
   font-size: 125%;
   padding: 5px 20px 5px 20px;
@@ -33,6 +33,7 @@ p {
 }
 #chicken {
   background-color: #DFEAEF;
+  color: white;
 }
 
 #beef {
