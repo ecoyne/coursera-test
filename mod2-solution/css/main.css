@@ -15,7 +15,6 @@ section {
   background-color: #cfe4c3;
   height: 250px
   overflow: auto;
-  position: absolute;
 }
 h2 {
   float: right;
