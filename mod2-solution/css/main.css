@@ -14,7 +14,7 @@ section {
   border: 1px solid black;
   background-color: #cfe4c3;
   overflow: auto;
-  position: relative;
+  position: absolute;
   width: 100%; 
 }
 h2 {
