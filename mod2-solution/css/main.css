@@ -13,9 +13,8 @@ h1 {
 section {
   border: 1px solid black;
   background-color: #cfe4c3;
-  height: 250px
   overflow: auto;
-  position: absolute;
+  position: relative;
   width: 100%; 
 }
 h2 {
