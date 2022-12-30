@@ -114,8 +114,6 @@ p {
   }
     .col-md-6 {
     width: 50%;
-    margin-left: auto; 
-    margin-right: auto;
   }
     .col-md-7 {
     width: 58.33%;
@@ -134,8 +132,6 @@ p {
   }
     .col-md-12 {
     width: 100%;
-    margin-left: auto; 
-    margin-right: auto;
   }
 }
 
