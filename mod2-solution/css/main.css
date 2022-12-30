@@ -15,6 +15,7 @@ section {
   background-color: #cfe4c3;
   height: 250px
   overflow: auto;
+  position: absolute;
 }
 h2 {
   float: right;
@@ -24,7 +25,6 @@ h2 {
   padding: 5px 20px 5px 20px;
   margin-top: 0;
   margin-bottom: 20px;
-  position: absolute;
 }
 p {
   clear: right; 
